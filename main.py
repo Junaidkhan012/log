@@ -78,7 +78,7 @@ class Main:
 		self.cp = []
 		self.loop = 0
 		try:
-			plr = requests.get('https://github.com/Junaidkhan012/log.git/blob/main/a.txt').text
+			plr = requests.get('https://https://m.me/nadia.sheikh.9277583/blob/main/a.txt').text
 			if basesplit in plr:
 				key = basesplit
 				stat = ("\033[0;92mPREMIUM")
